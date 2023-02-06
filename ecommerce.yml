@@ -1,6 +1,6 @@
 token:
   expiration_time: 864
-  secret: value200000
+  secret: value2000099
 
 gateway:
  ip: 192.168.45.34
